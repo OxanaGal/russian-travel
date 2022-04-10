@@ -1,0 +1,7 @@
+.header__lang-menu-item{
+  margin-right: 18px;
+}
+
+.header__lang-menu-item:last-child{
+  margin-right: 0;
+}

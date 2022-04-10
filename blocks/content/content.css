@@ -1,0 +1,29 @@
+.content{
+  /*width: 100%;*/
+  margin: 56px auto 92px;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 1140px){
+  .content{
+    margin-top: 45px;
+  }
+}
+
+@media screen and (max-width: 980px){
+  .content{
+    margin-bottom: 88px;
+  }
+}
+
+@media screen and (max-width: 720px){
+  .content{
+    margin-bottom: 64px;
+  }
+}
+
+@media screen and (max-width: 565px){
+  .content{
+    margin-top: 48px;
+  }
+}
