@@ -3,12 +3,5 @@
   line-height: 22px;
 
   color: #FFFFFF;
-
-  opacity: 1;
-  transition: opacity 0.3s ease;
 }
 
-.place__link:hover{
-  opacity: 0.8;
-  transition: opacity 0.3s ease;
-}
